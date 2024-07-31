@@ -1,2 +1,3 @@
 gitlab/gitlab-ee:latest
 gitlab/gitlab-runner
+xiejson/kd-git-runner:1.1.0
