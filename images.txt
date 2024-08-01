@@ -12,5 +12,5 @@ xiejson/file-tomcat:1.0.0
 xiejson/xxl-job-admin:1.9.2
 xiejson/jira:1.0.0
 xiejson/kd-git-runner:1.1.0
-xiejson/python-base:3.7.0
+xiejson/python-base
 xiejson/python-bash:3.7.0
