@@ -2,3 +2,4 @@ gitlab/gitlab-ee:latest
 gitlab/gitlab-runner
 semaphoreui/semaphore
 nginx
+rancher/mirrored-pause
