@@ -2,16 +2,3 @@ gitlab/gitlab-ee:latest
 gitlab/gitlab-runner
 semaphoreui/semaphore
 nginx
-
-xiejson/centos7-arthas:1.0.0
-xiejson/weibo_art:1.1
-xiejson/chrome-base:v1
-xiejson/kd-chrome-driver:v2
-xiejson/business-nginx-web:1.17.3
-xiejson/business-nginx-web:1.0
-xiejson/file-tomcat:1.0.0
-xiejson/xxl-job-admin:1.9.2
-xiejson/jira:1.0.0
-xiejson/kd-git-runner:1.1.0
-xiejson/python-base
-xiejson/python-bash
