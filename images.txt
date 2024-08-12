@@ -1,6 +1,7 @@
 gitlab/gitlab-ee:latest
 gitlab/gitlab-runner
 semaphoreui/semaphore
+nginx
 
 xiejson/centos7-arthas:1.0.0
 xiejson/weibo_art:1.1
