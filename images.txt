@@ -3,3 +3,4 @@ gitlab/gitlab-runner
 semaphoreui/semaphore
 nginx
 rancher/mirrored-pause:3.6
+bitnami/kafka:3.0.2
