@@ -1,8 +1,1 @@
-gitlab/gitlab-ee:latest
-gitlab/gitlab-runner:latest --platform linux/arm64
-semaphoreui/semaphore
-nginx
-rancher/mirrored-pause:3.6
-bitnami/kafka:3.0.2
-bitnami/zookeeper:3.6.3
-mongo:5.0.5
+gitlab/gitlab-runner:latest
