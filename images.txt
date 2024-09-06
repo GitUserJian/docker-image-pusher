@@ -1,5 +1,5 @@
 gitlab/gitlab-ee:latest
-gitlab/gitlab-runner:latest
+gitlab/gitlab-runner:latest --platform linux/arm64
 semaphoreui/semaphore
 nginx
 rancher/mirrored-pause:3.6
