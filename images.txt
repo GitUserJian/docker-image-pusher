@@ -1,3 +1,5 @@
 gitlab/gitlab-runner:v13.0.0
 anzevalher/gitlab-runner:11.7.0-arm64v8
 yrzr/gitlab-ce-arm64v8
+
+multiarch/qemu-user-static
