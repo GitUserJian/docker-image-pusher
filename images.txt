@@ -1,2 +1,2 @@
 nginx:stable-alpine3.20-perl
-openeuler/openeuler:24.03
+openeuler/openeuler:22.03
