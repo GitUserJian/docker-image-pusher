@@ -1,1 +1,1 @@
-nginx/nginx:stable-alpine3.20-perl
+nginx:stable-alpine3.20-perl
