@@ -1,3 +1,4 @@
+obsidiandynamics/kafdrop
 nginx:stable-alpine3.20-perl
 openeuler/openeuler:22.03
 gitlab/gitlab-ee:latest
@@ -8,4 +9,3 @@ rancher/mirrored-pause:3.6
 bitnami/kafka:3.0.2
 bitnami/zookeeper:3.6.3
 mongo:5.0.5
-obsidiandynamics/kafdrop
