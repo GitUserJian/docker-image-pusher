@@ -1,4 +1,7 @@
-obsidiandynamics/kafdrop:4.0.3-SNAPSHOT
+knowstreaming/knowstreaming-manager
+knowstreaming/knowstreaming-ui
+knowstreaming/knowstreaming-mysql
+elasticsearch:7.6.2
 nginx:stable-alpine3.20-perl
 openeuler/openeuler:22.03
 gitlab/gitlab-ee:latest
