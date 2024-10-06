@@ -1,4 +1,4 @@
-obsidiandynamics/kafdrop
+obsidiandynamics/kafdrop:4.0.3-SNAPSHOT
 nginx:stable-alpine3.20-perl
 openeuler/openeuler:22.03
 gitlab/gitlab-ee:latest
