@@ -1,3 +1,5 @@
+bitnami/kafka:3.3.1
+bitnami/zookeeper:3.3.1
 knowstreaming/knowstreaming-manager
 knowstreaming/knowstreaming-ui
 knowstreaming/knowstreaming-mysql
