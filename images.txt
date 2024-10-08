@@ -1,3 +1,4 @@
+tomcat:9.0.95-jdk8-corretto
 tomcat:9-jre8
 bitnami/kafka:3.8
 knowstreaming/knowstreaming-manager
