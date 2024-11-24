@@ -1,3 +1,4 @@
+syncthing/syncthing
 milvusdb/milvus:v2.4.16
 alpine:latest
 portainer/agent
