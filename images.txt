@@ -1,3 +1,4 @@
+paddlecloud/paddleocr
 openjdk:17
 syncthing/syncthing
 milvusdb/milvus:v2.4.16
