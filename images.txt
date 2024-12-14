@@ -1,1 +1,2 @@
+shadowsocks/shadowsocks-libev
 paddlecloud/paddleocr:2.6-cpu-latest
