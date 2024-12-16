@@ -1,2 +1,3 @@
+openeuler/openeuler:22.03-lts-sp1
 shadowsocks/shadowsocks-libev
 paddlecloud/paddleocr:2.6-cpu-latest
