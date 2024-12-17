@@ -3,3 +3,6 @@ wurstmeister/kafka
 zookeeper
 prom/prometheus
 elasticsearch:7.13.1
+nginx:1.20.0
+openeuler/openeuler:22.03-lts
+mysql:latest
