@@ -1,4 +1,5 @@
 mysql:5.7.44
+redis:7.4.1
 hitosea2020/dooface:0.0.1
 kuaifan/doookr:0.4.5
 kuaifan/dootask-ai:0.2.6
@@ -9,6 +10,5 @@ jgraph/drawio:24.7.17
 kuaifan/fileview:4.2.0-SNAPSHOT-RC25
 onlyoffice/documentserver:8.2.2.1
 mariadb:10.7.3
-redis:alpine
 nginx:alpine
 kuaifan/php:swoole-8.0.rc18
