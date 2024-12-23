@@ -1,3 +1,4 @@
+mysql:5.7.44
 hitosea2020/dooface:0.0.1
 kuaifan/doookr:0.4.5
 kuaifan/dootask-ai:0.2.6
