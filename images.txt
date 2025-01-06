@@ -1,2 +1,2 @@
-gitlab/gitlab-runner:latest
+gitlab/gitlab-runner:alpine
 python:3.11
