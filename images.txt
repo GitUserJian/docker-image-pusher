@@ -1,3 +1,4 @@
+gitlab/gitlab-runner:alpine
 nginx:latest
 mysql:5.7.44
 redis:7.4.1
