@@ -1,2 +1,3 @@
+breakstring/gpt-sovits
 gitlab/gitlab-runner:latest
 python:3.11
