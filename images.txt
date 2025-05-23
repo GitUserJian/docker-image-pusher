@@ -1,1 +1,1 @@
-openjdk:8
+bitnami/kafka:3.3.2
