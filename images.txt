@@ -1,3 +1,1 @@
-knowstreaming/knowstreaming-ui
-knowstreaming/knowstreaming-manager
-knowstreaming/knowstreaming-mysql
+ubuntu:24.04
