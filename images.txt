@@ -1,1 +1,1 @@
-tchiotludo/akhq
+nginx:latest
