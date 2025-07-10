@@ -1,2 +1,1 @@
-milvusdb/milvus:master-20250710-ee9a9518-amd64
-redis:latest
+milvusdb/milvus:latest
